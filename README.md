@@ -6,20 +6,36 @@
 - 🔭 I’m currently working on ¯\\\_(ツ)\_/
 - 🌱 I’m currently learning **java.**
 - 💬 Ask me about **anything, I am happy to help.**
-- ⚡ Fun fact **still Student.**
+## 🛠️ Languages & Tools
 
-## 🛠️ Languages and tools
+### 💻 Programming
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/></a>
 
-<a href="#"><img src="https://img.icons8.com/?size=48&id=40669&format=png"/></a>
-<a href="#"><img src="https://img.icons8.com/?size=48&id=40670&format=png"/></a>
-<a href="#"><img src="https://img.icons8.com/?size=50&id=13679&format=png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
+### 🌐 Web & Backend Development
+<a href="#"><img src="https://img.icons8.com/fluency/48/html-5.png" alt="HTML"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS"/></a>
+<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/api.png" alt="REST API"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JWT / JSON" width="48"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/lock--v1.png" alt="Authentication / Security"/></a>
 
-### Web development
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
-<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
+### 🗄 Databases
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/></a>
+
+### ⚙️ Tools & Platforms
+<a href="#"><img src="https://img.icons8.com/color/48/git.png" alt="Git"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio"/></a>
+
+
 
 # 📊 GitHub Stats:
 
@@ -30,8 +46,19 @@
 </div>
 
 ## 🔗 Connect with me
-<a href="https://www.instagram.com/__niraj_2707/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/niraj-kumar-b603642a1/" target="_blank"><img src="https://img.icons8.com/?size=50&id=13930&format=png" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/__niraj_2707/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/niraj-kumar-b603642a1/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
+</a>
+<a href="https://x.com/nirajkr2707" target="_blank">
+  <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter/X">
+</a>
+<a href="mailto:nirajkr2707@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">
+</a>
+
 
  
 
